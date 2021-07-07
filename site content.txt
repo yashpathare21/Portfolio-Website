@@ -1,0 +1,12 @@
+All Sections ---
+
+1. Header
+2. Home
+3. About
+4. Services
+
+5. Skills
+6. Portfolio
+7. Team
+8. Contact form
+9. Footer
